@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "O Pequeno Princie",
+      "author": "Pedro de Alcantra",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "O Rei e o rato",
+      "author": "Jose de Anchieta",
+      "price": "4"
+    },
+    {
+      "id": 3,
+      "name": "O Rei leao",
+      "author": "Jose de Anchieta",
+      "price": "7"
+    },
+    {
+      "name": "Aquarela do Brasil",
+      "price": "1.50",
+      "author": "Jose de Anchieta",
+      "id": 4
+    },
+    {
+      "name": "Sol e Mar",
+      "price": "23",
+      "author": "Jose de Anchieta",
+      "id": 5
+    },
+    {
+      "name": "Aquarela",
+      "author": "Toquinho",
+      "price": "20.00",
+      "id": 7
+    }
+  ]
+}
