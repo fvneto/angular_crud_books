@@ -6,7 +6,7 @@ Development of an application with Angular 10, it was developed a simple applica
 # Technologies and Prerequisites</b>
 
 <b>Challenges and learning acquired during development:</b>
-Os principais conceitos do Angular 10: Componentes, Diretivas, Pipes, Services, RxJS, uso do [material](https://material.angular.io/) e etc, muito mais
+The main concepts of Angular 10: Components, Directives, Pipes, Services, RxJS, use of [material](https://material.angular.io/) and etc.
 
 # Preparing the environment
   Angular requires the following items:
@@ -14,7 +14,7 @@ Os principais conceitos do Angular 10: Componentes, Diretivas, Pipes, Services, 
 * 
 
 # Database
-As our main focus is the frontend part so to simplify the backend and we will use JSOM SERVE
+As our main focus is the frontend part so to simplify the backend and we will use [JSOM SERVE](https://github.com/typicode/json-server)
 
 ```
 npm i json-server
