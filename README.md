@@ -3,6 +3,13 @@ Crud Angular
 
 Development of an application with Angular 10, it was developed a simple application of a book register (CRUD) with Creation, Reading, Update and Exclusion of books.
 
+# System screens
+<img src="https://github.com/fvneto/angular_crud_books/blob/master/home.PNG" width="650" height="350">
+<img src="https://github.com/fvneto/angular_crud_books/blob/master/books.PNG" width="650" height="350">
+<img src="https://github.com/fvneto/angular_crud_books/blob/master/delete.PNG" width="650" height="350">
+<img src="https://github.com/fvneto/angular_crud_books/blob/master/newbooks.PNG" width="650" height="350">
+<img src="https://github.com/fvneto/angular_crud_books/blob/master/update.PNG" width="650" height="350">
+
 # Technologies and Prerequisites</b>
 
 <b>Challenges and learning acquired during development:</b>
@@ -50,10 +57,3 @@ We must open the file and type the objects with all API endpoints.
   ]
 }
 ```
-
-# System screens
-<img src="https://github.com/fvneto/angular_crud_books/blob/master/home.PNG" width="650" height="350">
-<img src="https://github.com/fvneto/angular_crud_books/blob/master/books.PNG" width="650" height="350">
-<img src="https://github.com/fvneto/angular_crud_books/blob/master/delete.PNG" width="650" height="350">
-<img src="https://github.com/fvneto/angular_crud_books/blob/master/newbooks.PNG" width="650" height="350">
-<img src="https://github.com/fvneto/angular_crud_books/blob/master/update.PNG" width="650" height="350">
